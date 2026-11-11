@@ -1,7 +1,7 @@
 import asyncio
 from telegram import Bot
 
-9280313528:AAGKM4PthnlqvA0hjgMTz3Z8vjMvwe3sfmw
+"TELEGRAM_TOKEN"= "9280313528:AAGKM4PthnlqvA0hjgMTz3Z8vjMvwe3sfmw"
 
 CHANNEL_ID = "@mhn123mhn"
 
